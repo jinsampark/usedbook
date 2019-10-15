@@ -1,2 +1,2 @@
 # usedbook
-Here is used book room
+Here is used book room for smart contract.
