@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "name": "유니버스",
+    "picture": "images/L.jpeg",
+    "year": 2019,
+    "author": "리처드 고트",
+    "publisher": "바다"
+  },
+  {
+    "id": 1,
+    "name": "유니버스",
+    "picture": "images/L.jpeg",
+    "year": 2019,
+    "author": "리처드 고트",
+    "publisher": "바다"
+  },
+  {
+    "id": 2,
+    "name": "바이러스",
+    "picture": "images/M.jpeg",
+    "year": 2019,
+    "author": "메릴린 루싱크",
+    "publisher": "더숲"
+  },
+  {
+    "id": 3,
+    "name": "바이러스",
+    "picture": "images/M.jpeg",
+    "year": 2019,
+    "author": "메릴린 루싱크",
+    "publisher": "더숲"
+  },
+  {
+    "id": 4,
+    "name": "바이러스4",
+    "picture": "images/M.jpeg",
+    "year": 2019,
+    "author": "메릴린 루싱크",
+    "publisher": "더숲"
+  }
+
+]
