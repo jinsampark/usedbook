@@ -2,42 +2,42 @@
   {
     "id": 0,
     "name": "유니버스",
-    "picture": "images/L.jpeg",
+    "picture": "images/0.jpeg",
     "year": 2019,
     "author": "리처드 고트",
     "publisher": "바다"
   },
   {
     "id": 1,
-    "name": "유니버스",
-    "picture": "images/L.jpeg",
-    "year": 2019,
-    "author": "리처드 고트",
-    "publisher": "바다"
+    "name": "82년생 김지영",
+    "picture": "images/1.jpeg",
+    "year": 2016,
+    "author": "조남주",
+    "publisher": "민음사"
   },
   {
     "id": 2,
     "name": "바이러스",
-    "picture": "images/M.jpeg",
+    "picture": "images/2.jpeg",
     "year": 2019,
     "author": "메릴린 루싱크",
     "publisher": "더숲"
   },
   {
     "id": 3,
-    "name": "바이러스",
-    "picture": "images/M.jpeg",
+    "name": "아홉 명의 완벽한 타인들",
+    "picture": "images/3.jpeg",
     "year": 2019,
-    "author": "메릴린 루싱크",
-    "publisher": "더숲"
+    "author": "리안 모리아티",
+    "publisher": "마시멜로"
   },
   {
     "id": 4,
-    "name": "바이러스4",
-    "picture": "images/M.jpeg",
+    "name": "숫자를 돈으로 바꾸는 데이터 읽기의 기술",
+    "picture": "images/4.jpeg",
     "year": 2019,
-    "author": "메릴린 루싱크",
-    "publisher": "더숲"
+    "author": "차현나",
+    "publisher": "청림출판"
   }
 
 ]
