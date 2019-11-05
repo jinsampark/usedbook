@@ -3,15 +3,15 @@
     "id": 0,
     "name": "유니버스",
     "picture": "images/0.jpeg",
-    "year": 2019,
-    "author": "리처드 고트",
-    "publisher": "바다"
+    "year": "2019.9.30",
+    "author": "닐 디그래스 타이슨, 마이클 스트라우스, J. 리처드 고트",
+    "publisher": "바다출판사"
   },
   {
     "id": 1,
     "name": "82년생 김지영",
     "picture": "images/1.jpeg",
-    "year": 2016,
+    "year": "2016.10.14",
     "author": "조남주",
     "publisher": "민음사"
   },
@@ -19,7 +19,7 @@
     "id": 2,
     "name": "바이러스",
     "picture": "images/2.jpeg",
-    "year": 2019,
+    "year": "2019.9.30",
     "author": "메릴린 루싱크",
     "publisher": "더숲"
   },
@@ -27,7 +27,7 @@
     "id": 3,
     "name": "아홉 명의 완벽한 타인들",
     "picture": "images/3.jpeg",
-    "year": 2019,
+    "year": "2019.10.25",
     "author": "리안 모리아티",
     "publisher": "마시멜로"
   },
@@ -35,9 +35,32 @@
     "id": 4,
     "name": "숫자를 돈으로 바꾸는 데이터 읽기의 기술",
     "picture": "images/4.jpeg",
-    "year": 2019,
+    "year": "2019.10.30",
     "author": "차현나",
     "publisher": "청림출판"
-  }
-
+  },
+  {
+    "id": 5,
+    "name": "총, 균, 쇠",
+    "picture": "images/5.jpeg",
+    "year": "2005.12.19",
+    "author": "재레드 다이아몬드",
+    "publisher": "문학사상"
+  },
+  {
+    "id": 6,
+    "name": "나만 알고싶은 유럽 TOP10",
+    "picture": "images/6.jpeg",
+    "year": "2014.6.18",
+    "author": "정여울",
+    "publisher": "홍익출판사"
+  },
+  {
+    "id": 7,
+    "name": "살아갈 날들을 위한 공부",
+    "picture": "images/7.jpeg",
+    "year": "2007.10.30",
+    "author": "레프 톨스토이",
+    "publisher": "조화로운삶"
+  }  
 ]
